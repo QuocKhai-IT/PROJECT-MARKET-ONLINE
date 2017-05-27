@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+footer{
+background: #e4b9c0;
+    width: 60%;
+    margin: auto;
+}
+.container{
+    padding-top:50px;
+    margin: auto;
+
+}
+.footer__copyright{
+    padding-bottom: 10px;
+    border-bottom:#255625 solid 1px ;
+}
+a:hover{
+    background: red;
+}
